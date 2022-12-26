@@ -9,6 +9,7 @@ public class Solution {
 
    while(true) {
 		Scanner sc= new Scanner(System.in);
+	   System.out.println("bhema");
 		System.out.println("1:Deposite  Amount\n2:Withdraw Amount:");
 		System.out.println("3:Check balance\n4:Exit:");
 		System.out.println("Enter  choice:");
